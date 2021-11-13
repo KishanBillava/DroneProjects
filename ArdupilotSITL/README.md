@@ -129,5 +129,24 @@ Change to that directory and execute:
 mono MissionPlanner.exe
 ```
 
+## DroneKit
+
+Installation 
+```
+pip install dronekit
+pip install dronekit-sitl
+```
+Get started 
+```
+dronekit-sitl copter
+mavproxy.py --master tcp:127.0.0.1:5760 --sitl 127.0.0.1:55001 --out 127.0.0.1:14550 --out 127.0.0.1:14551
+```
+
+
+## Gazebo
+Installation 
+```
+Gazebo
+```
 
 
