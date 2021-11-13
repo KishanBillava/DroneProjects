@@ -113,6 +113,12 @@ disarm
 reboot
 ```
 
+## Install QGroundControl
+Download QGroundControl.AppImage :   https://s3-us-west-2.amazonaws.com/qgroundcontrol/latest/QGroundControl.AppImage
+```
+Install (and run) using the terminal commands:  chmod +x ./QGroundControl.AppImage
+./QGroundControl.AppImage  (or double click)
+```
 
 
 
