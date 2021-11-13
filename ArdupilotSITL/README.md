@@ -81,6 +81,8 @@ command : →  cruise
 now turn cruiseing around channel 1  and 1300 left turn  →   rc 1 1300
 and set up rc 1 1500 to stop turning 
 ```
+![image](https://user-images.githubusercontent.com/84302215/141613003-e6f1f584-d33b-4302-aeb4-1c9bc947ce1e.png)
+
 ```
 go to map after changing to guided mode →  mode guided 
 ```
