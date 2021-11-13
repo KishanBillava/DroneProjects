@@ -121,5 +121,13 @@ Install (and run) using the terminal commands:  chmod +x ./QGroundControl.AppIma
 ```
 
 
+## Mission Planner on Linux 
+```
+Download and install the latest version of MONO from [here](https://www.mono-project.com/download/stable/)  
+Download Mission Planner as a zip file from [here](https://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.zip)  and unzip to a directory.
+Change to that directory and execute:
+mono MissionPlanner.exe
+```
+
 
 
