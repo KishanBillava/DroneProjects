@@ -50,6 +50,8 @@ cd ardupilot/ArduCopter
 sim_vehicle.py -w
 sim_vehicle.py --console --map
 ```
+![image](https://user-images.githubusercontent.com/84302215/141613076-917673c0-5c92-4dc7-b2fc-54b2b675a453.png)
+
 
 ## Using SITL [Source](https://ardupilot.org/dev/docs/using-sitl-for-ardupilot-testing.html#using-sitl-for-ardupilot-testing)  
 
@@ -65,7 +67,9 @@ sim_vehicle.py → This is the simulation
 --osd    →   the OSD emulation displays OSD panel items and locations
 ```
 
-Testing mavproxy commands 
+
+### Testing mavproxy commands 
+
 ```
 Prepare for take off →  qloiter
 arm the throttle       →  arm throttle
